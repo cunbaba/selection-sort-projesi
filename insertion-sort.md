@@ -1,14 +1,14 @@
 SELECTION SORT PROJESİ
 
 Insertion Sort
-[22,27,16,2,18,6] elimizdeki elemanların seçimli sıralaması.
+1. [22,27,16,2,18,6] elimizdeki elemanların seçimli sıralaması.
 Dizindeki en küçük rakamı buluyoruz. Burada en küçük rakam 2. En baştaki rakam ile yer değiştiriyoruz. Sıralama;
-[2,27,16,22,18,6]
+2. [2,27,16,22,18,6]
 Şimdi ikinci en küçük rakamı buluyoruz. O da 6. İkinci rakam ile yer değiştiriyoruz. Yani 27 ile. Sıralama;
-[2,6,16,22,18,27]
+3. [2,6,16,22,18,27]
 Üçüncü en küçük elemanı üçüncü sırada olduğu için olduğu gibi bırakıyoruz.
 Dördüncü küçük elemanı dördüncü sıradaki elemanla yer değiştiriyoruz. Yani 22 ile 18. Sıralama;
-[2,6,16,18,22,27]
+4. [2,6,16,18,22,27]
 Son yaptığımız işlem ile elemanlarımız sıralanmış oldu.
 
 Big-O Gösterimi
